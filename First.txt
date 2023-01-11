@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1272-8FDD
+
+ Directory of C:\Users\Hans\Documents\GIT\BASH\B3
+
+01/10/2023  09:22 PM    <DIR>          .
+01/10/2023  09:22 PM    <DIR>          ..
+01/10/2023  09:24 PM                 0 First.txt
+01/10/2023  09:22 PM                 0 readme.md
+               2 File(s)              0 bytes
+               2 Dir(s)  695,388,254,208 bytes free
